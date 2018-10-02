@@ -1,0 +1,20 @@
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Communication\bin\Debug\Communication.exe.config
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Communication\bin\Debug\Communication.exe
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Communication\bin\Debug\Communication.pdb
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Communication\bin\Debug\BlockingQueue.exe
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Communication\bin\Debug\Message.exe
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Communication\bin\Debug\BlockingQueue.pdb
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Communication\bin\Debug\Message.pdb
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Communication\obj\Debug\Communication.exe
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Communication\obj\Debug\Communication.pdb
+F:\TestHarness\Communication\bin\Debug\Communication.exe.config
+F:\TestHarness\Communication\bin\Debug\Communication.exe
+F:\TestHarness\Communication\bin\Debug\Communication.pdb
+F:\TestHarness\Communication\bin\Debug\BlockingQueue.exe
+F:\TestHarness\Communication\bin\Debug\Message.exe
+F:\TestHarness\Communication\bin\Debug\BlockingQueue.pdb
+F:\TestHarness\Communication\bin\Debug\Message.pdb
+F:\TestHarness\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+F:\TestHarness\Communication\obj\Debug\Communication.exe
+F:\TestHarness\Communication\obj\Debug\Communication.pdb
