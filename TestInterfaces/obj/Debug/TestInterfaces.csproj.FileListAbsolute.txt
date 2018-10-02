@@ -1,0 +1,26 @@
+E:\Study\SU Master\CIS681\Homework\Project2\TestHarness\TestInterfaces\bin\Debug\TestInterfaces.exe.config
+E:\Study\SU Master\CIS681\Homework\Project2\TestHarness\TestInterfaces\bin\Debug\TestInterfaces.exe
+E:\Study\SU Master\CIS681\Homework\Project2\TestHarness\TestInterfaces\bin\Debug\TestInterfaces.pdb
+E:\Study\SU Master\CIS681\Homework\Project2\TestHarness\TestInterfaces\obj\Debug\TestInterfaces.exe
+E:\Study\SU Master\CIS681\Homework\Project2\TestHarness\TestInterfaces\obj\Debug\TestInterfaces.pdb
+E:\Study\SU Master\CIS681\Homework\Project2\TestHarness\TestInterfaces\obj\Debug\TestInterfaces.csprojResolveAssemblyReference.cache
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\TestInterfaces\bin\Debug\TestInterfaces.exe.config
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\TestInterfaces\bin\Debug\TestInterfaces.exe
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\TestInterfaces\bin\Debug\TestInterfaces.pdb
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\TestInterfaces\bin\Debug\Message.exe
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\TestInterfaces\bin\Debug\Message.pdb
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\TestInterfaces\obj\Debug\TestInterfaces.csprojResolveAssemblyReference.cache
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\TestInterfaces\obj\Debug\TestInterfaces.exe
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\TestInterfaces\obj\Debug\TestInterfaces.pdb
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\TestInterfaces\bin\Debug\BlockingQueue.exe
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\TestInterfaces\bin\Debug\BlockingQueue.pdb
+F:\TestHarness\TestInterfaces\bin\Debug\TestInterfaces.exe.config
+F:\TestHarness\TestInterfaces\bin\Debug\TestInterfaces.exe
+F:\TestHarness\TestInterfaces\bin\Debug\TestInterfaces.pdb
+F:\TestHarness\TestInterfaces\bin\Debug\BlockingQueue.exe
+F:\TestHarness\TestInterfaces\bin\Debug\Message.exe
+F:\TestHarness\TestInterfaces\bin\Debug\BlockingQueue.pdb
+F:\TestHarness\TestInterfaces\bin\Debug\Message.pdb
+F:\TestHarness\TestInterfaces\obj\Debug\TestInterfaces.csprojResolveAssemblyReference.cache
+F:\TestHarness\TestInterfaces\obj\Debug\TestInterfaces.exe
+F:\TestHarness\TestInterfaces\obj\Debug\TestInterfaces.pdb

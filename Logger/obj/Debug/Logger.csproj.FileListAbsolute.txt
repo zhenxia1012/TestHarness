@@ -1,0 +1,17 @@
+E:\Study\SU Master\CIS681\Homework\Project2\TestHarness\Logger\bin\Debug\Logger.exe.config
+E:\Study\SU Master\CIS681\Homework\Project2\TestHarness\Logger\bin\Debug\Logger.exe
+E:\Study\SU Master\CIS681\Homework\Project2\TestHarness\Logger\bin\Debug\Logger.pdb
+E:\Study\SU Master\CIS681\Homework\Project2\TestHarness\Logger\obj\Debug\Logger.exe
+E:\Study\SU Master\CIS681\Homework\Project2\TestHarness\Logger\obj\Debug\Logger.pdb
+E:\Study\SU Master\CIS681\Homework\Project2\TestHarness\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Logger\bin\Debug\Logger.exe.config
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Logger\bin\Debug\Logger.exe
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Logger\bin\Debug\Logger.pdb
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Logger\obj\Debug\Logger.exe
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Logger\obj\Debug\Logger.pdb
+F:\TestHarness\Logger\bin\Debug\Logger.exe.config
+F:\TestHarness\Logger\bin\Debug\Logger.exe
+F:\TestHarness\Logger\bin\Debug\Logger.pdb
+F:\TestHarness\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+F:\TestHarness\Logger\obj\Debug\Logger.exe
+F:\TestHarness\Logger\obj\Debug\Logger.pdb

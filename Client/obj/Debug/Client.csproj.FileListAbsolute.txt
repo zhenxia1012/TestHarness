@@ -1,0 +1,34 @@
+E:\Study\SU Master\CIS681\Homework\Project2\TestHarness\Client\bin\Debug\Client.exe.config
+E:\Study\SU Master\CIS681\Homework\Project2\TestHarness\Client\bin\Debug\Client.exe
+E:\Study\SU Master\CIS681\Homework\Project2\TestHarness\Client\bin\Debug\Client.pdb
+E:\Study\SU Master\CIS681\Homework\Project2\TestHarness\Client\obj\Debug\Client.exe
+E:\Study\SU Master\CIS681\Homework\Project2\TestHarness\Client\obj\Debug\Client.pdb
+E:\Study\SU Master\CIS681\Homework\Project2\TestHarness\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Client\bin\Debug\Client.exe.config
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Client\bin\Debug\Client.exe
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Client\bin\Debug\Client.pdb
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Client\obj\Debug\Client.exe
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Client\obj\Debug\Client.pdb
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Client\bin\Debug\BlockingQueue.exe
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Client\bin\Debug\Message.exe
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Client\bin\Debug\TestInterfaces.exe
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Client\bin\Debug\BlockingQueue.pdb
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Client\bin\Debug\Message.pdb
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Client\bin\Debug\TestInterfaces.pdb
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Client\bin\Debug\Communication.exe
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Client\bin\Debug\Communication.pdb
+F:\TestHarness\Client\bin\Debug\Client.exe.config
+F:\TestHarness\Client\bin\Debug\Client.exe
+F:\TestHarness\Client\bin\Debug\Client.pdb
+F:\TestHarness\Client\bin\Debug\BlockingQueue.exe
+F:\TestHarness\Client\bin\Debug\Communication.exe
+F:\TestHarness\Client\bin\Debug\Message.exe
+F:\TestHarness\Client\bin\Debug\TestInterfaces.exe
+F:\TestHarness\Client\bin\Debug\BlockingQueue.pdb
+F:\TestHarness\Client\bin\Debug\Communication.pdb
+F:\TestHarness\Client\bin\Debug\Message.pdb
+F:\TestHarness\Client\bin\Debug\TestInterfaces.pdb
+F:\TestHarness\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\TestHarness\Client\obj\Debug\Client.exe
+F:\TestHarness\Client\obj\Debug\Client.pdb

@@ -1,0 +1,25 @@
+E:\Study\SU Master\CIS681\Homework\Project2\TestHarness\Test3\bin\Debug\Test3.dll
+E:\Study\SU Master\CIS681\Homework\Project2\TestHarness\Test3\bin\Debug\Test3.pdb
+E:\Study\SU Master\CIS681\Homework\Project2\TestHarness\Test3\bin\Debug\TestInterfaces.exe
+E:\Study\SU Master\CIS681\Homework\Project2\TestHarness\Test3\bin\Debug\TestInterfaces.pdb
+E:\Study\SU Master\CIS681\Homework\Project2\TestHarness\Test3\obj\Debug\Test3.csprojResolveAssemblyReference.cache
+E:\Study\SU Master\CIS681\Homework\Project2\TestHarness\Test3\obj\Debug\Test3.dll
+E:\Study\SU Master\CIS681\Homework\Project2\TestHarness\Test3\obj\Debug\Test3.pdb
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Test3\obj\Debug\Test3.csprojResolveAssemblyReference.cache
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Test3\obj\Debug\Test3.pdb
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Test3\bin\Debug\Test3.pdb
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Test3\bin\Debug\TestInterfaces.exe
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Test3\bin\Debug\Message.exe
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Test3\bin\Debug\TestInterfaces.pdb
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Test3\bin\Debug\Message.pdb
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Test3\bin\Debug\Test3.dll
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Test3\obj\Debug\Test3.dll
+F:\TestHarness\Test3\bin\Debug\Test3.dll
+F:\TestHarness\Test3\bin\Debug\Test3.pdb
+F:\TestHarness\Test3\bin\Debug\TestInterfaces.exe
+F:\TestHarness\Test3\bin\Debug\Message.exe
+F:\TestHarness\Test3\bin\Debug\TestInterfaces.pdb
+F:\TestHarness\Test3\bin\Debug\Message.pdb
+F:\TestHarness\Test3\obj\Debug\Test3.csprojResolveAssemblyReference.cache
+F:\TestHarness\Test3\obj\Debug\Test3.dll
+F:\TestHarness\Test3\obj\Debug\Test3.pdb
