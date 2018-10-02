@@ -1,0 +1,12 @@
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\TestCode1\bin\Debug\TestCode1.dll.config
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\TestCode1\bin\Debug\TestCode1.dll
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\TestCode1\bin\Debug\TestCode1.pdb
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\TestCode1\obj\Debug\TestCode1.dll
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\TestCode1\obj\Debug\TestCode1.pdb
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\TestCode1\obj\Debug\TestCode1.csprojResolveAssemblyReference.cache
+F:\TestHarness\TestCode1\bin\Debug\TestCode1.dll.config
+F:\TestHarness\TestCode1\bin\Debug\TestCode1.dll
+F:\TestHarness\TestCode1\bin\Debug\TestCode1.pdb
+F:\TestHarness\TestCode1\obj\Debug\TestCode1.csprojResolveAssemblyReference.cache
+F:\TestHarness\TestCode1\obj\Debug\TestCode1.dll
+F:\TestHarness\TestCode1\obj\Debug\TestCode1.pdb
