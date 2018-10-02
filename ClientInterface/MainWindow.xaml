@@ -1,0 +1,65 @@
+﻿<Window x:Class="ClientInterface.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClientInterface"
+        mc:Ignorable="d"
+        Title="TestHarness" Height="626" Width="655">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40" />
+            <RowDefinition Height="40" />
+            <RowDefinition Height="40" />
+            <RowDefinition Height="40" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="1" Orientation="Horizontal">
+            <Button Height="23" Margin="40,0" Name="sendll" VerticalAlignment="Center" 
+              Width="100" Click="sendll_Click" Content="Send Dll"/>
+            <Button Height="23" Margin="90,0" Name="sendtestrequest" VerticalAlignment="Center" 
+              Width="100" Click="sendtestrequest_Click" Content="SendTestRequest"/>
+            <Button Height="23" Margin="60,0" Name="Query" VerticalAlignment="Center" 
+              Width="100"  Content="Query" Click="Query_Click"/>
+        </StackPanel>
+        <StackPanel Grid.Row="2" Orientation="Horizontal">
+            <Button Height="23" Margin="40,0" Name="connect" VerticalAlignment="Center" 
+              Width="100" Content="Connect" Click="connect_Click"/>
+            <Button Height="23" Margin="10,0" Name="disconnect" VerticalAlignment="Center" 
+              Width="100"  Content="Disconnect" Click="disconnect_Click"/>
+            <Button Height="23" Margin="40,0" Name="send" VerticalAlignment="Center" 
+              Width="100"  Content="Send" Click="send_Click"/>
+            <Button Height="23" Margin="40,0" Name="generate" VerticalAlignment="Center" 
+              Width="100" Content="Generate" Click="generate_Click"/>
+        </StackPanel>
+        <StackPanel Grid.Row="3" Orientation="Horizontal">
+            <TextBox Grid.Row="3" Height="28" Width="100" Margin="60,0" Name="yeartext" VerticalAlignment="Center">
+            </TextBox>
+            <Label Grid.Row="3" Margin="-100" Height="28" Width="50" Name="yearlabel" VerticalAlignment="Center" Content="Year"/>
+            <TextBox Grid.Row="3" Height="28" Width="100" Margin="40,0" Name="monthtext" VerticalAlignment="Center">
+            </TextBox>
+            <Label Grid.Row="3" Margin="-100" Height="28" Width="50" Name="monthlabel" VerticalAlignment="Center" Content="Month"/>
+            <TextBox Grid.Row="3" Height="28" Width="100" Margin="40,0" Name="daytext" VerticalAlignment="Center">
+            </TextBox>
+            <Label Grid.Row="3" Margin="-100" Height="28" Width="50" Name="daylabel" VerticalAlignment="Center" Content="Day"/>
+        </StackPanel>
+        <Grid Grid.Row="4">
+            <Label Height="28" Margin="30,0" Name="label3" VerticalAlignment="Center"
+             HorizontalAlignment="Right" Width="210" HorizontalContentAlignment="Center">
+                Received Messages</Label>
+            <Label Height="28" Margin="30,0" Name="label2" VerticalAlignment="Center"
+             HorizontalAlignment="Left" Width="210" HorizontalContentAlignment="Center">
+                Sent Messages</Label>
+        </Grid>
+        <Grid Grid.Row="5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <ListBox Grid.Column="0" Margin="-80, 20, 15, 20" Name="menu" Width="180">
+
+            </ListBox>
+            <ListBox Grid.Column="1" Margin="-100, 20, 30, 20" Name="result" Width="350"/>
+        </Grid>
+    </Grid>
+</Window>

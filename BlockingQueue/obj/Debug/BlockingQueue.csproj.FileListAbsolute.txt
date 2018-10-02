@@ -1,0 +1,17 @@
+E:\Study\SU Master\CIS681\Homework\Project2\TestHarness\BlockingQueue\bin\Debug\BlockingQueue.exe.config
+E:\Study\SU Master\CIS681\Homework\Project2\TestHarness\BlockingQueue\bin\Debug\BlockingQueue.exe
+E:\Study\SU Master\CIS681\Homework\Project2\TestHarness\BlockingQueue\bin\Debug\BlockingQueue.pdb
+E:\Study\SU Master\CIS681\Homework\Project2\TestHarness\BlockingQueue\obj\Debug\BlockingQueue.csprojResolveAssemblyReference.cache
+E:\Study\SU Master\CIS681\Homework\Project2\TestHarness\BlockingQueue\obj\Debug\BlockingQueue.exe
+E:\Study\SU Master\CIS681\Homework\Project2\TestHarness\BlockingQueue\obj\Debug\BlockingQueue.pdb
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\BlockingQueue\bin\Debug\BlockingQueue.exe.config
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\BlockingQueue\bin\Debug\BlockingQueue.exe
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\BlockingQueue\bin\Debug\BlockingQueue.pdb
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\BlockingQueue\obj\Debug\BlockingQueue.exe
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\BlockingQueue\obj\Debug\BlockingQueue.pdb
+F:\TestHarness\BlockingQueue\bin\Debug\BlockingQueue.exe.config
+F:\TestHarness\BlockingQueue\bin\Debug\BlockingQueue.exe
+F:\TestHarness\BlockingQueue\bin\Debug\BlockingQueue.pdb
+F:\TestHarness\BlockingQueue\obj\Debug\BlockingQueue.csprojResolveAssemblyReference.cache
+F:\TestHarness\BlockingQueue\obj\Debug\BlockingQueue.exe
+F:\TestHarness\BlockingQueue\obj\Debug\BlockingQueue.pdb
