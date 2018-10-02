@@ -1,0 +1,20 @@
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Test5\bin\Debug\Test5.pdb
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Test5\bin\Debug\TestInterfaces.exe
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Test5\bin\Debug\Message.exe
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Test5\bin\Debug\TestInterfaces.pdb
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Test5\bin\Debug\Message.pdb
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Test5\obj\Debug\Test5.csprojResolveAssemblyReference.cache
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Test5\obj\Debug\Test5.pdb
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Test5\bin\Debug\Test5.dll.config
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Test5\bin\Debug\Test5.dll
+E:\Study\SU Master\CIS681\Homework\Project4\TestHarness\Test5\obj\Debug\Test5.dll
+F:\TestHarness\Test5\bin\Debug\Test5.dll.config
+F:\TestHarness\Test5\bin\Debug\Test5.dll
+F:\TestHarness\Test5\bin\Debug\Test5.pdb
+F:\TestHarness\Test5\bin\Debug\TestInterfaces.exe
+F:\TestHarness\Test5\bin\Debug\Message.exe
+F:\TestHarness\Test5\bin\Debug\TestInterfaces.pdb
+F:\TestHarness\Test5\bin\Debug\Message.pdb
+F:\TestHarness\Test5\obj\Debug\Test5.csprojResolveAssemblyReference.cache
+F:\TestHarness\Test5\obj\Debug\Test5.dll
+F:\TestHarness\Test5\obj\Debug\Test5.pdb
